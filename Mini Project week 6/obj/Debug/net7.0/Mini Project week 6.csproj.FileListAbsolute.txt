@@ -1,0 +1,15 @@
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.csproj.AssemblyReference.cache
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.AssemblyInfoInputs.cache
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.AssemblyInfo.cs
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.csproj.CoreCompileInputs.cache
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.dll
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/refint/Mini Project week 6.dll
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.pdb
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/bin/Debug/net7.0/Mini Project week 6
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/bin/Debug/net7.0/Mini Project week 6.deps.json
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/bin/Debug/net7.0/Mini Project week 6.runtimeconfig.json
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/bin/Debug/net7.0/Mini Project week 6.dll
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/bin/Debug/net7.0/Mini Project week 6.pdb
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/Mini Project week 6.genruntimeconfig.cache
+/Users/simonabouelkhir/Projects/Mini Project week 6/Mini Project week 6/obj/Debug/net7.0/ref/Mini Project week 6.dll

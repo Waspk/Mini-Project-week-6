@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Mini Project week 6/1.0.0": {
+        "runtime": {
+          "Mini Project week 6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini Project week 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
